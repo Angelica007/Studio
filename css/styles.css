@@ -43,3 +43,11 @@
     padding: 50px 100px 50px 100px;
     display: table;
 }
+#comment{    
+    color: white;
+    background: transparent;
+    margin-left: 120px;
+    margin-right: 100px;
+    height: 300px;
+    width: 80%;
+}
