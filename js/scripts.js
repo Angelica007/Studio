@@ -4,9 +4,15 @@ $(document).ready(function() {
       $("#clickable").hide();
     });
   });
-  $(document).ready(function() {
+$(document).ready(function() {
     $(".clickable2").click(function() {
       $("#develop").toggle();
+      $("#clickable").hide();
+    });
+  });
+$(document).ready(function() {
+    $(".clickable3").click(function() {
+      $("#services").toggle();
       $("#clickable").hide();
     });
   });
