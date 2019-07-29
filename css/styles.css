@@ -64,4 +64,12 @@ h1{
 }
 #design{
     display: none;
+}#develop{
+    display: none;
 }
+#services{
+    display: none;
+}
+  .clickable {
+    cursor: pointer;
+  }
