@@ -6,3 +6,12 @@
     height: 700px;
     width: 100%;
 }
+#lin2{
+    background-image: url("https://raw.githubusercontent.com/jonnygovish/IP3/master/assets/backgrounds/s_image.jpg");
+    background-size: cover;
+    font-weight: 100;
+    text-align: center;
+    color: white;
+    height: 300px;
+    width: 100%;
+}
