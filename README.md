@@ -4,7 +4,7 @@ My project is a practice of the usage of bootstrap and jQuerry. It is about a st
 
 ## Installation
 
-Ubuntu software, Google chrome
+You must have the following: Ubuntu software, Google chrome.
 
 ## Technolgy used
 
