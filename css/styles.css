@@ -26,3 +26,11 @@
     text-align: center;
     font-weight: 200;
 }
+#lin6{
+    background-image: url("https://raw.githubusercontent.com/jonnygovish/IP3/master/assets/backgrounds/c_image.jpg");
+    background-size: auto;
+    color: white;
+    text-align: center;
+    height: 600px;
+    width: 100%;
+}
