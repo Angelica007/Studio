@@ -73,6 +73,6 @@ h1{
 .clickable {
     cursor: pointer;
   }
-input[type=text],textarea{
-    color: white,
+input[type = text],textarea{
+    color: white
 }

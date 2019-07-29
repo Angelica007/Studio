@@ -16,7 +16,8 @@ $(document).ready(function() {
       $("#clickable").hide();
     });
   });
-  $("sender").click(function(){
+  $(document).ready(function(){
+      $("#sender").click(function(event){
       var name = $("#name").val();
       var email = $("#email").val();
       var message =$("#comment").val();
@@ -24,7 +25,9 @@ $(document).ready(function() {
           alert(name + " " + "Thanks for your comment! It has been received.")
       }
       else{
-          alert(name + " " + "Please, fill correctly the form!")
+          alert(name + " " + "Please, fill the form correctly!")
       }
       event.preventDefault();
   });
+  })
+  
