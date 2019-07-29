@@ -14,7 +14,7 @@ No special usage created.
 Comments may be written in case you are exploring the project.
 
 ## License
-Moringa School
+Moringa School 
 
 ## URL
 
