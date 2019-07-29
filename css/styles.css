@@ -59,4 +59,9 @@ h1{
 }.col-md-8{
     margin-left: 350px;
     margin-right: 200px;
+}footer{
+    text-align: center;
+}
+#design{
+    display: none;
 }
