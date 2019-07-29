@@ -4,6 +4,10 @@ My project is a practice of the usage of bootstrap and jQuerry. It is about a st
 
 ## Installation
 
+Ubuntu software, Google chrome
+
+## Technolgy used
+
 In its installation I used HTML, CSS, JAVASCRIPT, BOOTSTRAP and JQUERY. It was a good experience.
 
 ## Usage
