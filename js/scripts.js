@@ -16,3 +16,15 @@ $(document).ready(function() {
       $("#clickable").hide();
     });
   });
+  $("sender").click(function(){
+      var name = $("#name").val();
+      var email = $("#email").val();
+      var message =$("#comment").val();
+      if((name != "") || (email != "") || (message != "")) {
+          alert(name + " " + "Thanks for your comment! It has been received.")
+      }
+      else{
+          alert(name + " " + "Please, fill correctly the form!")
+      }
+      event.preventDefault();
+  });
