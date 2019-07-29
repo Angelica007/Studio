@@ -39,4 +39,7 @@
 }
 #email{
     background: transparent;
+}.row{
+    padding: 50px 100px 50px 100px;
+    display: table;
 }
